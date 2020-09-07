@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "36B1DD4A-ADF1-4E4F-A211-1F6394E6629C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C6AA7A0-88CE-4060-AF40-D5426B0584E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flixster/MovieCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "8C6AA7A0-88CE-4060-AF40-D5426B0584E2 - b9fa5948d6c33f90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.__deallocating_deinit"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josebarroso/Desktop/flixster/flixster/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8C6AA7A0-88CE-4060-AF40-D5426B0584E2 - ca4830f4f06304aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; flixster.MovieCell"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josebarroso/Desktop/flixster/flixster/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "8C6AA7A0-88CE-4060-AF40-D5426B0584E2 - 380fca25c30490b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; flixster.MovieCell"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josebarroso/Desktop/flixster/flixster/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "8C6AA7A0-88CE-4060-AF40-D5426B0584E2 - f2092cc6da4b6eb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;flixster.MovieCell&gt;"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josebarroso/Desktop/flixster/flixster/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "8C6AA7A0-88CE-4060-AF40-D5426B0584E2 - bf42c03b4e7f56ea"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;flixster.MovieCell&gt;"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josebarroso/Desktop/flixster/flixster/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EABD6A5E-CC15-42AE-B8CA-A7057E595167"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flixster/MovieCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "MovieCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "EABD6A5E-CC15-42AE-B8CA-A7057E595167 - b9fa5948d6c33f90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.__deallocating_deinit"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josebarroso/Desktop/flixster/flixster/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "EABD6A5E-CC15-42AE-B8CA-A7057E595167 - ca4830f4f06304aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; flixster.MovieCell"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josebarroso/Desktop/flixster/flixster/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "EABD6A5E-CC15-42AE-B8CA-A7057E595167 - 380fca25c30490b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; flixster.MovieCell"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josebarroso/Desktop/flixster/flixster/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "EABD6A5E-CC15-42AE-B8CA-A7057E595167 - f2092cc6da4b6eb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;flixster.MovieCell&gt;"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josebarroso/Desktop/flixster/flixster/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "EABD6A5E-CC15-42AE-B8CA-A7057E595167 - bf42c03b4e7f56ea"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;flixster.MovieCell&gt;"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josebarroso/Desktop/flixster/flixster/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EA4582E-077A-4AD6-80BB-E3AA6AB9DFA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flixster/MovieCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "MovieCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3EA4582E-077A-4AD6-80BB-E3AA6AB9DFA8 - 380fca25c30490b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; flixster.MovieCell"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josebarroso/Desktop/flixster/flixster/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "3EA4582E-077A-4AD6-80BB-E3AA6AB9DFA8 - bf42c03b4e7f56ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;flixster.MovieCell&gt;"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josebarroso/Desktop/flixster/flixster/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E10F946F-F0AE-4FA8-8C5D-ADC24ED88E35"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flixster/MovieCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "MovieCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E10F946F-F0AE-4FA8-8C5D-ADC24ED88E35 - 380fca25c30490b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; flixster.MovieCell"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josebarroso/Desktop/flixster/flixster/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "E10F946F-F0AE-4FA8-8C5D-ADC24ED88E35 - bf42c03b4e7f56ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixster.MovieCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;flixster.MovieCell&gt;"
+                  moduleName = "flixster"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josebarroso/Desktop/flixster/flixster/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F1C2495-5B18-4CF4-8399-CEFFD5E8B41D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flixster/MovieCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
